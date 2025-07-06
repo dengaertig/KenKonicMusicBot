@@ -119,6 +119,15 @@ MIT License. Free to use, modify, and share.
 
 ---
 
+⚠️ **Disclaimer**
+
+This project is intended for educational and personal use only.
+
+- This bot does **not stream music from Spotify**. It only uses the **Spotify Web API** to retrieve public metadata (track name, artist).
+- Audio is played using YouTube via `yt-dlp`.
+- Please make sure to comply with the Terms of Service of **Discord**, **YouTube**, and **Spotify**.
+- The author does not take any responsibility for misuse or violations of platform rules.
+
 ## ❤️ Support
 
 Give the repo a ⭐ if you like it!  
